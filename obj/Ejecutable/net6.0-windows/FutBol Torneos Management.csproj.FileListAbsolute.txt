@@ -1,0 +1,30 @@
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\FutBol Torneos Management.exe
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\FutBol Torneos Management.deps.json
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\FutBol Torneos Management.runtimeconfig.json
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\FutBol Torneos Management.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\FutBol Torneos Management.pdb
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\nunit.framework.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\nunit.framework.legacy.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\EstructuraDeClases.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\Tabla Hash.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\EstructuraDeClases.pdb
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\bin\Ejecutable\net6.0-windows\Tabla Hash.pdb
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.csproj.AssemblyReference.cache
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Form_AdminTorneos.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Form_Equipos.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Form_Jugadores.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Form_Torneos.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Form_TorneosNuevo.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Principal.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol_Torneos_Management.Properties.Resources.resources
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.csproj.GenerateResource.cache
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.AssemblyInfoInputs.cache
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.AssemblyInfo.cs
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.csproj.CoreCompileInputs.cache
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.csproj.CopyComplete
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\refint\FutBol Torneos Management.dll
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.pdb
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\FutBol Torneos Management.genruntimeconfig.cache
+C:\PROYECTO FINAL PROGRAMACION 3\FutBol Torneos Management\obj\Ejecutable\net6.0-windows\ref\FutBol Torneos Management.dll
